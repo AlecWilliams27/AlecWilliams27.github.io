@@ -1,0 +1,39 @@
+---
+---
+
+@import "minimal-mistakes";
+
+.post-tags {
+  margin-top: 10px;
+}
+
+.post-tag {
+  display: inline-block;
+  padding: 4px 10px;
+  margin-right: 5px;
+  background-color: #ffd700;
+  color: #333;
+  border-radius: 3px;
+  font-size: 0.875rem;
+  font-weight: 600;
+}
+
+.post-entry {
+  margin-bottom: 2rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.post-title a {
+  text-decoration: none;
+  color: #000;
+}
+
+.post-title a:hover {
+  color: #0066cc;
+}
+
+.post-excerpt {
+  margin: 0.5rem 0;
+  color: #666;
+}
