@@ -1,18 +1,22 @@
 ---
-layout: page
+layout: archive
 title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Hello! I'm Alec Williams 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I began my career in healthcare as a pharmacy professional and eventually worked my way up to Team Lead at BioPlus Specialty Pharmacy. During that time, I discovered my love for data integration, validation, and reporting. My manager used to say, “Data doesn’t lie,” and that phrase stuck with me. It sparked a curiosity that turned into a genuine passion for understanding what data reveals — and how it can be used to drive better decisions.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I’m passionate about creating beautifully designed, data-driven projects that are both insightful and aesthetically pleasing. I have a natural eye for detail and design, and I enjoy bringing creativity into analytical work. I’m also a natural-born leader — someone who’s often taken the less traditional path. Being an outcast at times taught me resilience and gave me perspective, helping me recognize that I have a greater calling and purpose in this field.
 
+I’m currently seeking a career opportunity that allows me to combine my technical and creative strengths — where I can analyze, build, and communicate insights that make an impact. I hope to contribute to something much greater than myself while continuing to grow as a Business and Data Analyst
 
-[jekyll-organization]: https://github.com/jekyll
+## My Skills
+### Technical Skills
+
+{% include technicalskills.md %}
+
+### Soft Skills
+
+{% include softskills.md %}
