@@ -4,6 +4,21 @@ layout: archive
 
 {{ content }}
 
+<h3 class="archive__subtitle">My Favorite Work</h3>
+<div class="entries-{{ entries_layout }}">
+  {% for post in site.posts %}
+    {% if post.highlight_home and post.categories contains "home" %}
+      <div class="work-entry">
+        <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+        <p>{{ post.excerpt | strip_html | truncate: 120 }}</p>
+      </div>
+    {% endif %}
+  {% endfor %}
+  {% unless site.posts %}
+    <p>No favorite work posts found.</p>
+  {% endunless %}
+</div>
+
 <h3 class="archive__subtitle">My Favorite Dashboards</h3>
 <div class="entries-{{ entries_layout }}">
   {% for post in site.posts %}
@@ -25,9 +40,12 @@ layout: archive
 
 <h3 class="archive__subtitle">My Favorite Artwork</h3>
 <div class="entries-{{ entries_layout }}">
-  {% for post in posts %}
+  {% for post in site.posts %}
     {% if post.highlight_home and post.categories contains "artwork" %}
-      {% include archive-single.html type=entries_layout %}
+      <div class="artwork-entry">
+        <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+        <p>{{ post.excerpt | strip_html | truncate: 120 }}</p>
+      </div>
     {% endif %}
   {% endfor %}
 </div>
