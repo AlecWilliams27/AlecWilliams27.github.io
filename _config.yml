@@ -36,7 +36,7 @@ plugins:
 
 # Minimal Mistakes defaults
 # Used as a fallback for archive grid cards when posts lack header.teaser
-teaser: /assets/images/default-teaser.jpg
+teaser: /assets/images/default-teaser.svg
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

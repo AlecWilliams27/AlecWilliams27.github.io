@@ -1,14 +1,13 @@
 ---
-layout: post
+layout: single
 title: "TripleTen Project 2: Replace with Title"
 date: 2025-10-08 12:10:00 +0000
 categories: [dashboards]
 tags: [tripleten, education, dashboard]
 highlight_home: true
 header:
-  teaser: /assets/images/tripleten/project-2-teaser.jpg
-  overlay_image: /assets/images/tripleten/project-2-hero.jpg
   caption: "Add a brief caption or credit"
+excerpt: "Brief overview of the project goals and context."
 ---
 
 Brief overview of the project goals and context.

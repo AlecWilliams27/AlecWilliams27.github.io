@@ -5,7 +5,7 @@ Alec Williams:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.mywebsite.com"
+      url: "mailto:a.williams444@hotmail.com"
+    - label: "Github"
+      icon: "fab fa-github"
+      url: "https://github.com/AlecWilliams27"

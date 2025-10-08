@@ -1,14 +1,13 @@
 ---
-layout: post
+layout: single
 title: "TripleTen Project 3: Replace with Title"
 date: 2025-10-08 12:20:00 +0000
 categories: [dashboards]
 tags: [tripleten, education, dashboard]
 highlight_home: true
 header:
-  teaser: /assets/images/tripleten/project-3-teaser.jpg
-  overlay_image: /assets/images/tripleten/project-3-hero.jpg
   caption: "Add a brief caption or credit"
+excerpt: "What did you build and why does it matter?"
 ---
 
 What did you build and why does it matter?
