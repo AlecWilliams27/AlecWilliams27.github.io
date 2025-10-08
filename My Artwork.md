@@ -2,6 +2,7 @@
 layout: archive
 title: My Artwork
 permalink: /artwork/
+tags: [artwork, education]
 ---
 
 

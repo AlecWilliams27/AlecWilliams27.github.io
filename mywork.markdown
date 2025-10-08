@@ -1,6 +1,7 @@
 ---
 title: "My Projects"
 layout: archive
+tags: [dashboards, education]
 ---
 
 # 📊 My Dashboard Journey  
