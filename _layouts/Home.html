@@ -1,0 +1,53 @@
+---
+layout: archive
+---
+
+{{ content }}
+
+<h3 class="archive__subtitle">My Favorite Work</h3>
+<div class="entries-{{ entries_layout }}">
+  {% for post in site.posts %}
+    {% if post.highlight_home and post.categories contains "home" %}
+      <div class="work-entry">
+        <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+        <p>{{ post.excerpt | strip_html | truncate: 120 }}</p>
+      </div>
+    {% endif %}
+  {% endfor %}
+  {% unless site.posts %}
+    <p>No favorite work posts found.</p>
+  {% endunless %}
+</div>
+
+<h3 class="archive__subtitle">My Favorite Dashboards</h3>
+<div class="entries-{{ entries_layout }}">
+  {% for post in site.posts %}
+    {% if post.highlight_home and post.categories contains "dashboards" %}
+      <div class="dashboard-entry">
+        <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+        <p>{{ post.excerpt | strip_html | truncate: 120 }}</p>
+          {% if post.tags %}
+            <div class="post-tags">
+              {% for tag in post.tags %}
+                <span class="post-tag">{{ tag }}</span>
+              {% endfor %}
+            </div>
+          {% endif %}
+      </div>
+    {% endif %}
+  {% endfor %}
+</div>
+
+<h3 class="archive__subtitle">My Favorite Artwork</h3>
+<div class="entries-{{ entries_layout }}">
+  {% for post in site.posts %}
+    {% if post.highlight_home and post.categories contains "artwork" %}
+      <div class="artwork-entry">
+        <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+        <p>{{ post.excerpt | strip_html | truncate: 120 }}</p>
+      </div>
+    {% endif %}
+  {% endfor %}
+</div>
+
+{% include paginator.html %}

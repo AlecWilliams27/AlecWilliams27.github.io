@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "Home"
+    url: "/"
+  - title: "About Me"
+    url: "/about"
+  - title: "My Dashboards"
+    url: "/mywork"
+  - title: "My Artwork"
+    url: "/artwork"
