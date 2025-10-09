@@ -31,7 +31,7 @@ layout: archive
 
 <h3 class="archive__subtitle">My Favorite Artwork</h3>
 <div class="entries-grid">
-  {% assign art_posts = site.posts | where_exp: "p", "p.highlight_home == true" | where_exp: "p", "p.categories contains 'artwork'" %}
+  {% assign art_posts = site.posts | where_exp: "p", "p.tags contains 'artwork'" | sort: 'date' | reverse | slice: 0, 6 %}
   {% for post in art_posts %}
     {% include archive-single.html type="grid" %}
   {% endfor %}

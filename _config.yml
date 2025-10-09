@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Alec Williams
+title: Home
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -36,7 +36,7 @@ plugins:
 
 # Minimal Mistakes defaults
 # Used as a fallback for archive grid cards when posts lack header.teaser
-teaser: /assets/images/default-teaser.svg
+teaser: https://images.unsplash.com/photo-1581904902287-0991e3fd1725?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDR8fHNwaGVyZXxlbnwwfHwwfHx8MA%3D%3D
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
