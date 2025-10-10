@@ -3,6 +3,6 @@ main:
   - title: "About Me"
     url: "/about"
   - title: "My Work"
-    url: "/mywork"
+    url: "/mywork/"
   - title: "My Gallery"
     url: "/artwork"
