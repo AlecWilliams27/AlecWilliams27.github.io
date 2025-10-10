@@ -1,15 +1,16 @@
 ---
 layout: single
-title: "Sample Artwork Post"
+title: "Custom Streetwear Jacket"
 date: 2025-10-07 14:00:00 +0000
 categories: [artwork]
 tags: [artwork]
 highlight_home: true
 header:
-	caption: "Photo via Unsplash"
-	teaser: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800&auto=format&fit=crop&q=60"
-	overlay_image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1600&auto=format&fit=crop&q=60"
-excerpt: "An abstract concept sketch that plays with form and motion."
+  caption: "Photo via Unsplash"
+  teaser: "/assets/images/Dragon.jpg"
+excerpt: "A custom hand-painted denim jacket created with acrylics, blending bold street art and fashion into a one-of-a-kind statement piece.."
 ---
 
-This is a sample artwork post. It will appear under 'My Favorite Artwork' on your homepage.
+{% include figure image_path="/assets/images/Dragon.jpg" alt="Custom Hand-Painted Streetwear Jacket" caption="Hand-painted denim jacket — acrylic on denim." %}
+
+#### This custom denim jacket was hand-painted with acrylics to create a bold, one-of-a-kind piece for my client. Featuring a fierce red dragon, graffiti-inspired lettering, and vibrant colors, it blends art and fashion into a statement piece that’s built to stand out and showcase individuality. This project was both fun and rewarding, allowing me to bring creativity and personality to life through wearable art.

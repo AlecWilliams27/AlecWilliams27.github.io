@@ -6,9 +6,9 @@ categories: [dashboards]
 tags: [tripleten, education, dashboard]
 highlight_home: true
 header:
-  caption: "Photo by Oscar Ramirez on Unsplash"
-  teaser: "https://plus.unsplash.com/premium_photo-1742516057603-cf93e8d4b6c6?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-  overlay_image: "https://plus.unsplash.com/premium_photo-1742516057603-cf93e8d4b6c6?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  caption: "Photo by Mariia Shalabaieva on Unsplash"
+  teaser: "https://images.unsplash.com/photo-1600766728170-d8f2ab8f6078?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MnxYdUJYRnI0UnJ0WXx8ZW58MHx8fHx8"
+  overlay_image: "https://images.unsplash.com/photo-1600766728170-d8f2ab8f6078?w=1200&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MnxYdUJYRnI0UnJ0WXx8ZW58MHx8fHx8"
 excerpt: "Tableau analysis that pinpoints SuperStore’s profit centers, loss drivers, ad ROI, and return risks, with clear recommendations to restore profitability."
 ---
 

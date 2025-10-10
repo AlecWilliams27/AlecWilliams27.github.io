@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: My Artwork
+title:
 permalink: /artwork/
 tags: [artwork, education]
 ---
@@ -16,7 +16,9 @@ This is more than artwork — it’s an open window into my creative process.
 
 ✨ *Created by Alec Williams*
 
-{% assign artworks = site.posts | where_exp: 'post', 'post.tags contains "artwork" or post.categories contains "artwork"' | sort: 'date' | reverse %}
+{% assign tagged = site.tags.artwork | default: empty %}
+{% assign categorized = site.categories.artwork | default: empty %}
+{% assign artworks = tagged | concat: categorized | uniq | sort: 'date' | reverse %}
 
 <h2>Artwork</h2>
 {% if artworks and artworks.size > 0 %}

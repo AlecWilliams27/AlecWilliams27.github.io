@@ -6,9 +6,9 @@ categories: [dashboards]
 tags: [tripleten, education, dashboard]
 highlight_home: true
 header:
-  caption: "Photo by Mike Von on Unsplash"
-  teaser: "https://images.unsplash.com/photo-1631215320889-7cf5eb3224f8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWlyJTIwYm5ifGVufDB8fDB8fHww"
-  overlay_image: "https://images.unsplash.com/photo-1631215320889-7cf5eb3224f8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWlyJTIwYm5ifGVufDB8fDB8fHww"
+  caption: "Photo by Philip Oroni on Unsplash"
+  teaser: "https://images.unsplash.com/premium_photo-1683936164558-7061805e86d0?q=80&w=700&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  overlay_image: "https://images.unsplash.com/premium_photo-1683936164558-7061805e86d0?q=80&w=1600&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 excerpt: "Analyzed Manhattan Airbnb listings with cleaned data and pivot tables to identify the most attractive neighborhoods and property sizes and provide investment recommendations."
 ---
 
