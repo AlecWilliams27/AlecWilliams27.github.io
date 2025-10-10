@@ -4,16 +4,25 @@ title: "Airbnb Project"
 date: 2025-10-08 12:10:00 +0000
 categories: [dashboards]
 tags: [tripleten, education, dashboard]
-highlight_home: true
+highlight_home: false
 header:
-  caption: "Photo by Philip Oroni on Unsplash"
-  teaser: "https://images.unsplash.com/premium_photo-1683936164558-7061805e86d0?q=80&w=700&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-  overlay_image: "https://images.unsplash.com/premium_photo-1683936164558-7061805e86d0?q=80&w=1600&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  caption: "Photo credit: Planet Volumes via Unsplash"
+  teaser: "/assets/images/Home logo by lanet Volumes via splash .avif"
+  overlay_image: "/assets/images/Home logo by lanet Volumes via splash .avif"
 excerpt: "Analyzed Manhattan Airbnb listings with cleaned data and pivot tables to identify the most attractive neighborhoods and property sizes and provide investment recommendations."
 ---
 
 # 📌 Project Overview
 For this project, I was hired to help a client analyze the Manhattan vacation rental market. The goal was to provide guidance on which property types to invest in by uncovering key insights from Airbnb data.
+
+## Sceenshot
+<img width="1109" height="755" alt="image" src="https://github.com/user-attachments/assets/786707d7-da2a-4c0d-a05b-c3cd7e64a97a" />
+
+## Links
+<a class="btn btn--primary" href="https://docs.google.com/spreadsheets/d/1EFW-9JcKppfMliRt_biVELzRMBYgRr7myyPswshzsns/edit?usp=sharing" target="_blank" rel="noopener">
+  <i class="fas fa-table" aria-hidden="true"></i> View Live Dashboard
+</a>
+
 
 ### My analysis focused on answering two major questions: 
 * Which neighborhoods and property sizes (i.e., number of bedrooms) are most attractive for vacation rentals?
@@ -40,14 +49,10 @@ I made sure the data was consistent and accurate: Cleaned the neighborhood colum
 * Dashboard with key findings (link above)
 * Business recommendations for vacation rental investments
 
-### ✨ This project showcases my ability to clean, analyze, and visualize real-world data using advanced spreadsheet techniques while providing actionable business insights.
+##### ✨ This project showcases my ability to clean, analyze, and visualize real-world data using advanced spreadsheet techniques while providing actionable business insights.
 
 
 ## Tech & Tools
 - Excel, Query join
 
-## Links
-<a class="btn btn--primary" href="https://docs.google.com/spreadsheets/d/1EFW-9JcKppfMliRt_biVELzRMBYgRr7myyPswshzsns/edit?usp=sharing" target="_blank" rel="noopener">
-  <i class="fas fa-table" aria-hidden="true"></i> View Live Dashboard
-</a>
 

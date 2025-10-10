@@ -38,6 +38,32 @@ plugins:
 # Used as a fallback for archive grid cards when posts lack header.teaser
 teaser: https://images.unsplash.com/photo-1581904902287-0991e3fd1725?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDR8fHNwaGVyZXxlbnwwfHwwfHx8MA%3D%3D
 
+# Comments and Likes (via Giscus)
+# To finish setup: enable Discussions on your GitHub repo, then generate repo_id and category_id at https://giscus.app/ and paste them below.
+comments:
+  provider: giscus
+  giscus:
+    repo: "AlecWilliams27/AlecWilliams27.github.io"
+    # Get these from https://giscus.app after enabling Discussions on the repo
+    repo_id: "REPLACE_WITH_YOUR_REPO_ID"
+    category: "General"
+    category_id: "REPLACE_WITH_YOUR_CATEGORY_ID"
+    mapping: "pathname"      # Associate discussions by page path
+    strict: 0
+    reactions_enabled: 1      # Enables GitHub reactions (use as Like button)
+    emit_metadata: 0
+    input_position: "bottom"
+    theme: "light"
+    lang: "en"
+
+# Enable comments on all posts by default
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      comments: true
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Saving SuperStore Visualization"
+title: "Saving SuperStore - Part 1"
 date: 2025-10-08 12:20:00 +0000
 categories: [dashboards]
 tags: [tripleten, education, dashboard]
@@ -16,7 +16,15 @@ excerpt: "Tableau analysis that pinpoints SuperStore’s profit centers, loss dr
 Welcome to my Data Visualization project! In this case study, I acted as a consultant for a struggling SuperStore that was on the brink of bankruptcy. My task was to analyze operations, uncover profit and loss drivers, and make recommendations that could help the store return to profitability.
 I used a structured rubric to guide my work and ensure that I demonstrated mastery of visualization techniques and business storytelling.
 
-Check out the dashboard here: [https://public.tableau.com/app/profile/alec.williams2101/viz/DataVisualizationProjectComplete/SuperStoreDashboard]
+## 📸 Screenshot 
+ <img width="2171" height="1000" alt="image" src="https://github.com/user-attachments/assets/bfe30197-715d-480e-aa0a-d48d3fded2ef" />
+
+## Links
+<p class="btn-group">
+  <a class="btn btn--primary" href="https://public.tableau.com/app/profile/alec.williams2101/viz/DataVisualizationProjectComplete/SuperStoreDashboard" target="_blank" rel="noopener">
+    <i class="fas fa-chart-line" aria-hidden="true"></i> View Live Dashboard
+  </a>
+</p>
 
 ## 🎯 Objectives
 The project was divided into three key parts:
@@ -61,16 +69,10 @@ ROI on advertising → Profit × 20%
 * Provided a data-backed advertising strategy targeting specific states and months for maximum ROI.
 * Flagged customers and products with abnormal return rates that could hurt long-term profitability.
 
-### ✨ This project demonstrates my ability to use data visualization to uncover actionable insights, tell a compelling business story, and provide clear recommendations for executives.
-What did you build and why does it matter?
+##### ✨ This project demonstrates my ability to use data visualization to uncover actionable insights, tell a compelling business story, and provide clear recommendations for executives.
 
 ## Tech & Tools
 - Tableau
 
 
-## Links
-<p class="btn-group">
-  <a class="btn btn--primary" href="https://public.tableau.com/app/profile/alec.williams2101/viz/DataVisualizationProjectComplete/SuperStoreDashboard" target="_blank" rel="noopener">
-    <i class="fas fa-chart-line" aria-hidden="true"></i> View Live Dashboard
-  </a>
-</p>
+

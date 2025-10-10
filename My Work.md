@@ -5,7 +5,7 @@ permalink: /mywork/
 tags: [mywork]
 ---
 
-Here you’ll find a collection of dashboards that reflect my growth as a Business Intelligence Analyst —  
+Here you’ll find a collection of dashboards and projects that reflect my growth as a Business Intelligence Analyst —  
 each one combining curiosity, creativity, and a data-driven mindset.  
 
 {% assign works = site.posts | where_exp: 'post', 'post.tags contains "dashboard"' | sort: 'date' | reverse %}

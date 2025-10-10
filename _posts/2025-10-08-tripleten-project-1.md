@@ -7,9 +7,9 @@ tags: [tripleten, education, dashboard]
 author: Alec Williams
 highlight_home: true
 header: 
-  teaser: "https://images.unsplash.com/photo-1653389527532-884074ac1c65?q=80&w=1462&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-  overlay_image: "https://images.unsplash.com/photo-1653389527532-884074ac1c65?q=80&w=1462&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-  caption: "Photo credit: Rubaitul Azad via Unsplash"
+  teaser: "/assets/images/ZomatoLogo by Zoshua Colah via unsplash.avif"
+  overlay_image: "/assets/images/ZomatoLogo by Zoshua Colah via unsplash.avif"
+  caption: "Photo credit: Zoshua Colah via Unsplash"
   description: "A capstone-style sprint project focused on analyzing the Zomato dataset to uncover restaurant performance insights. The project was completed in two main phases: decomposition (planning) and dashboard + conclusions (execution)."
 excerpt: "Analyzed the Zomato dataset and built a dashboard to highlight restaurant performance trends and insights."
 ---
@@ -19,7 +19,17 @@ I was tasked with analyzing data from Zomato and building a dashboard that not o
 
 The project consisted of two major parts: *Decomposition (Research Plan) → Breaking down the business problem into a structured plan of analysis. *Dashboard & Report → Building an interactive dashboard to present findings and delivering recommendations in a report format.
 
-🌟 Please click the links at the bottom of this page to review the live dashboard and decompostion 🌟
+## 📸 Screenshot
+ <img width="1486" height="843" alt="image" src="https://github.com/user-attachments/assets/cfc0668f-250b-4862-8704-e5e7d5a7e086" />
+
+ <p class="btn-group">
+  <a class="btn btn--primary" href="https://app.powerbi.com/view?r=eyJrIjoiM2Y2Zjc3ZWUtNjBkYi00NDFjLTk5Y2QtMTdjYWE1OTEzMWUwIiwidCI6IjhmYmUxMWMzLTY4YjUtNDc2MC1hYjgyLWJhMzU2MjAzMzdiZiIsImMiOjJ9&embedImagePlaceholder=true" target="_blank" rel="noopener">
+    <i class="fas fa-chart-line" aria-hidden="true"></i> View Live Dashboard
+  </a>
+  <a class="btn btn--secondary" href="/assets/files/zomato-decomposition.pdf" target="_blank" rel="noopener">
+    <i class="fas fa-file-pdf" aria-hidden="true"></i> Zomato’s Decomposition
+  </a>
+</p>
 
 ## 🛠️ Project Workflow
 
@@ -46,19 +56,10 @@ Alongside the dashboard, I prepared a report summarizing my findings. The report
 
  💡 Key Takeaways A successful project goes beyond just building visuals — it requires storytelling, structured planning, and actionable recommendations. My Zomato dashboard showcased not only data analysis but also business strategy insights, making it valuable for decision-making.
 
-## ✨ This project demonstrates my ability to plan, analyze, visualize, and communicate insights effectively—end-to-end analytics from decomposition to recommendations.
+##### ✨ This project demonstrates my ability to plan, analyze, visualize, and communicate insights effectively—end-to-end analytics from decomposition to recommendations.
 
 
 ## Tech & Tools
 - Excel, PowerBI
 
-## Links
-<p class="btn-group">
-  <a class="btn btn--primary" href="https://app.powerbi.com/view?r=eyJrIjoiM2Y2Zjc3ZWUtNjBkYi00NDFjLTk5Y2QtMTdjYWE1OTEzMWUwIiwidCI6IjhmYmUxMWMzLTY4YjUtNDc2MC1hYjgyLWJhMzU2MjAzMzdiZiIsImMiOjJ9&embedImagePlaceholder=true" target="_blank" rel="noopener">
-    <i class="fas fa-chart-line" aria-hidden="true"></i> View Live Dashboard
-  </a>
-  <a class="btn btn--secondary" href="/assets/files/zomato-decomposition.pdf" target="_blank" rel="noopener">
-    <i class="fas fa-file-pdf" aria-hidden="true"></i> Zomato’s Decomposition
-  </a>
-</p>
 

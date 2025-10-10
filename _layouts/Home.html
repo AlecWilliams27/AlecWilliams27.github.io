@@ -17,7 +17,7 @@ layout: archive
   <div style="clear: both;"></div>
 </div>
 
-<h3 class="archive__subtitle">My Favorite Dashboards</h3>
+<h3 class="archive__subtitle">My Favorite Projects</h3>
 <div class="entries-grid">
   {% assign dash_posts = site.posts | where_exp: "p", "p.highlight_home == true" | where_exp: "p", "p.categories contains 'dashboards'" %}
   {% for post in dash_posts %}

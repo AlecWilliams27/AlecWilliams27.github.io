@@ -4,17 +4,28 @@ title: "E-commerce Event Log Analysis"
 date: 2025-10-07 13:00:00 +0000
 categories: [dashboards]
 tags: [education, dashboard]
-highlight_home: true
+highlight_home: false
 header:
-  caption: "Photo by Philip Oroni on Unsplash"
-  teaser: "https://images.unsplash.com/photo-1581904902287-0991e3fd1725?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDR8fHNwaGVyZXxlbnwwfHwwfHx8MA%3D%3D"
-  overlay_image: "https://images.unsplash.com/premium_photo-1683936164558-7061805e86d0?q=60&w=1600&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjA1fHxlY29tbWVyY2V8ZW58MHx8MHx8fDA%3D"
+  caption: "Photo credit: Li Lin via Unsplash"
+  teaser: "/assets/images/ecommerce logo by Li lin via unsplash.avif"
+  overlay_image: "/assets/images/ecommerce logo by Li lin via unsplash.avif"
 excerpt: "As a Junior Analyst, I turned raw user activity data into actionable insights on conversion and retention."
 ---
 
 # 📌 Project Overview
 
 I was hired as a junior analyst at an e-commerce company to transform raw transaction logs into actionable business metrics. Each row in the dataset represented a user activity (product views, cart opens, or purchases) on the company’s website. My goal was to explore the dataset, clean and organize the data, and deliver insights that the executive team could use to evaluate conversion performance and customer retention.
+
+## Screenshot 
+<img width="1634" height="661" alt="image" src="https://github.com/user-attachments/assets/100198d4-3063-4518-adc1-e47f795c6e43" />
+
+## Links
+<p>
+  <a class="btn btn--primary btn--large" href="https://docs.google.com/spreadsheets/d/1_D7ZXX-UjYCxaPAAZYiixekJoIIuVWbZ2YC3sTchano/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
+    View Project Google Sheet
+  </a>
+  <span class="label label--info" style="margin-left:8px;">opens in new tab</span>
+</p>
 
 ## 📂 Dataset Description
 
@@ -89,4 +100,4 @@ The funnel highlighted where the company loses the most customers during checkou
 Cohort analysis showed retention varies by acquisition month, helping the company understand seasonal patterns and long-term customer value.
 These insights can guide improvements to the conversion flow and help design strategies for customer retention.
 
-## ✨ This project demonstrates my ability to turn raw event logs into meaningful business metrics using advanced spreadsheet techniques such as pivot tables, VLOOKUP, TEXT(), and DATEDIF().
+##### ✨ This project demonstrates my ability to turn raw event logs into meaningful business metrics using advanced spreadsheet techniques such as pivot tables, VLOOKUP, TEXT(), and DATEDIF().
