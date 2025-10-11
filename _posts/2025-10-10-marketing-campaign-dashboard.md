@@ -11,7 +11,7 @@ header:
   overlay_image: "/assets/images/Storelogo2 by getty image via unsplash.avif"
   caption: "Photo credit: Getty Images via Unsplash"
   description: "A capstone-style sprint project focused on analyzing the Zomato dataset to uncover restaurant performance insights. The project was completed in two main phases: decomposition (planning) and dashboard + conclusions (execution)."
-excerpt: "Analyzed the Zomato dataset and built a dashboard to highlight restaurant performance trends and insights."
+excerpt: "In this project, I investigated the high number of returned orders at the Superstore."
 ---
 
 # 📌 Project Overview

@@ -11,4 +11,19 @@ header:
   caption: "Photo credit: Marissa Daeger on Unsplash"
 ---
 
-You’ll find this post in your _posts directory. Edit it to introduce yourself and your site, or to include some information about your project. This post will appear under "My Favorite Work" on your homepage if the filters are set as above.
+# 👋 Welcome & Thank You
+
+Thank you for taking the time to explore my page — it truly means a lot. Here, you’ll get a glimpse into the projects, ideas, and creativity that fuel my passion for data, design, and innovation.
+
+> 🚀 I’m always excited to connect with like-minded individuals who share the same drive, passion, and principles. If you’re working on a project or envisioning a future collaboration, I’d love to chat and see how we can bring those ideas to life together.
+
+##### 🤝 Let’s connect, build, and grow — I can’t wait to meet the people who will become part of my journey and future team.
+
+<p>
+  <a class="btn btn--primary btn--large" href="mailto:a.williams444@hotmail.com" target="_blank" rel="noopener noreferrer">
+    📬 Email Me
+  </a>
+  <a class="btn btn--secondary btn--large" href="https://www.linkedin.com/in/alec-williams27" target="_blank" rel="noopener noreferrer" style="margin-left:8px;">
+    🔗 Connect on LinkedIn
+  </a>
+</p>
